@@ -1,0 +1,6 @@
+CONFIG = {
+    'mobile': '****',
+    'password': '****',
+
+}
+
